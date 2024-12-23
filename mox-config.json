@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ios",
+    "title": "iOS"
+  },
+  {
+    "id": "apk",
+    "title": "安卓"
+  },
+  {
+    "id": "apktv",
+    "title": "电视TV"
+  }
+]
