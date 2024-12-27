@@ -1,14 +1,54 @@
-[
-  {
-    "id": "ios",
-    "title": "iOS"
-  },
-  {
-    "id": "apk",
-    "title": "安卓"
-  },
-  {
-    "id": "apktv",
-    "title": "电视TV"
-  }
-]
+{
+  "moxTitle": "墨享小站",
+  "moxAssetsPerMalink": "cd2b62b4c9d4cc576a8ac8282aec63590b414603",
+  "moxActiveColor": "#ff6600",
+  "moxNoticeBarText": "生命是永恒不断的创造，因为在它内部蕴含着过剩的精力，它不断流溢，越出时间和空间的界限，它不停地追求，以形形色色的自我表现的形式表现出来。",
+  "moxMainMenu": [
+      {
+          "id": "ios",
+          "title": "iOS",
+          "desc": "IPA",
+          "icon": "appleSvg",
+          "children": [
+              {
+                  "title": "影视动漫",
+                  "link": ""
+              },
+              {
+                  "title": "音乐APP",
+                  "link": ""
+              }
+          ]
+      },
+      {
+          "id": "apk",
+          "title": "安卓",
+          "icon": "apkSvg",
+          "desc": "安卓攻略"
+      },
+      {
+          "id": "apktv",
+          "title": "电视TV",
+          "icon": "tvSvg",
+          "desc": "电视TV"
+      },
+      {
+          "id": "source",
+          "title": "源接口",
+          "icon": "sourceSvg",
+          "desc": "源接口"
+      },
+      {
+          "id": "pc",
+          "title": "PC端",
+          "icon": "pcSvg",
+          "desc": "PC端"
+      },
+      {
+          "id": "wall",
+          "title": "壁纸精选",
+          "icon": "wallSvg",
+          "desc": "高清壁纸"
+      }
+  ]
+}
