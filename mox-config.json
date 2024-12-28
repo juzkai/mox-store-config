@@ -7,16 +7,218 @@
       {
           "id": "ios",
           "title": "iOS",
-          "desc": "IPA",
+          "desc": "iOS资源，基本上都是巨魔资源，需巨魔免签安装。免费资源很多，还没安装的小伙伴请先安装巨魔。",
           "icon": "appleSvg",
           "children": [
               {
+                  "title": "影视动漫空壳版",
+                  "desc": "影视空壳APP，需自配源，iOS空壳版比较少，不保证长期可用，请获取及时。APTV是直播类，配置源去源接口模块查找",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
                   "title": "影视动漫",
-                  "link": ""
+                  "desc": "主要是iBox，777，橘子等，内容不定期更新，有时效性。",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "巨魔录音机",
+                  "desc": "现在iOS18以上才支持通话录音，但很多小伙伴又不想升级系统，这不这款神器出来了，主推。",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "TrollFools注入",
+                  "desc": "一款注入神器，可以注入和推出dylib动态库的iOS应用，支持deb格式。资源内包含多种注入...",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
               },
               {
                   "title": "音乐APP",
-                  "link": ""
+                  "desc": "iOS上听歌的软件，部分需要配源使用（源接口模块获取），个人比较推荐某概念版2.5.5",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "聚合直播",
+                  "desc": "集哔哩、某鱼、虎y、抖y直播于一体，支持关注。爱刷直播的再也不用频繁切换应用了",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "小说阅读",
+                  "desc": "看小说的应用，部分需要自配源，源接口模块后期会更新",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "看漫画",
+                  "desc": "皮皮喵，里面自行摸索哈。",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "多媒体播放器",
+                  "desc": "几款比较实用的媒体播放器",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "文件应用管理",
+                  "desc": "Filza可以像安卓那样直接管理文件，AppsManager一键抹除用户数据，再也不用卸载重装了。",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "升降级APP",
+                  "desc": "给AppStore安装的应用升降级版本，不是所有的都能支持。",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "APP砸壳工具",
+                  "desc": "IPA提取，以及IPA修改，可开分身，你懂得...",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "浏览器应用",
+                  "desc": "几款便捷的浏览器应用，可无广。其中ES功能比较多。",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "应用签名",
+                  "desc": "轻松签及全能签，功能相似。",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "文档及办公工具",
+                  "desc": "计算器，PDF扫描、解压缩等工具",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "美化小组件",
+                  "desc": "手机桌面美化小组件等",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "NFC门禁卡",
+                  "desc": "可模拟未加密的门禁卡Aemulo",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "相机及图片编辑",
+                  "desc": "编辑图片、剪影视频、比较好用的相机等",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "社交媒体论坛",
+                  "desc": "一些社交类app",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "系统安全分析",
+                  "desc": "reveil分析系统安全性",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "实用工具",
+                  "desc": "其他一些杂七杂八的小工具、包括查看wifi，查看电池等",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
               }
           ]
       },
@@ -24,31 +226,161 @@
           "id": "apk",
           "title": "安卓",
           "icon": "apkSvg",
-          "desc": "安卓攻略"
+          "desc": "安卓应用，部分设备安装资源可能会受限，非主推资源，主要是些影视音乐类。",
+          "children": [
+              {
+                  "title": "影视",
+                  "desc": "主要是影视仓及OK影视俩神器，需配源使用，源接口模块获取。",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "音乐",
+                  "desc": "果韵，需要配源使用",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              }
+          ]
       },
       {
           "id": "apktv",
           "title": "电视TV",
           "icon": "tvSvg",
-          "desc": "电视TV"
+          "desc": "电视TV上使用，因设备不同，受限方式也不同，第一次安装需要U盘或投屏，建议优先装阿里TV版，下方系统工具中提供，以后有了资源可以直接从TV版上下载安装。",
+          "children": [
+              {
+                  "title": "系统工具",
+                  "desc": "电视桌面管理、应用管理等工具",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "影视动漫",
+                  "desc": "与安卓一样，主推影视仓及OK影视，需配源，源接口模块获取",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "电视直播",
+                  "desc": "看电视台的软件，其实有影视仓和OK已经足够用了，这俩视频及直播都支持的",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "音乐TV",
+                  "desc": "家庭KTV点歌软件，最好配合个U盘使用。",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              }
+          ]
       },
       {
           "id": "source",
           "title": "源接口",
           "icon": "sourceSvg",
-          "desc": "源接口"
+          "desc": "一些开源的直播源、视频源及音乐源接口，不能保证能搭配所有需要配置的源",
+          "children": [
+              {
+                  "title": "视频源",
+                  "desc": "开源的视频源接口。",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "直播源",
+                  "desc": "开源的直播源接口。",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "音乐源",
+                  "desc": "开源的音乐源接口。",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              }
+          ]
       },
       {
           "id": "pc",
           "title": "PC端",
           "icon": "pcSvg",
-          "desc": "PC端"
+          "desc": "windows端一些工具，暂时没影视版，可在工具里面下载个安卓模拟器观看，不过受限比较多。非主推",
+          "children": [
+              {
+                  "title": "音乐",
+                  "desc": "洛雪和果韵，需配源使用",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              },
+              {
+                  "title": "实用工具",
+                  "desc": "一些小工具，很少",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              }
+          ]
       },
       {
           "id": "wall",
           "title": "壁纸精选",
           "icon": "wallSvg",
-          "desc": "高清壁纸"
+          "desc": "高清壁纸",
+          "children": [
+              {
+                  "title": "手机端",
+                  "desc": "一些手机端的精选壁纸",
+                  "linkList": [
+                      {
+                          "title": "UC盘",
+                          "link": ""
+                      }
+                  ]
+              }
+          ]
       }
   ]
 }
