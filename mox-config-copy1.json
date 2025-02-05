@@ -1,0 +1,165 @@
+{
+  "moxTitle": "墨享小站",
+  "moxUser": "pro",
+  "moxAssetsPerMalink": "cd2b62b4c9d4cc576a8ac8282aec63590b414603",
+  "moxActiveColor": "#ff6600",
+  "moxNoticeBarText": "目前主要以苹果iOS，免费资源分享为主、提供一些使用技巧及攻略，后面会搜集一下其他端的使用攻略。",
+  "moxMainMenu": [
+    {
+      "id": "ios",
+      "title": "iOS",
+      "desc": "iOS资源，需自^签。",
+      "icon": "appleSvg",
+      "visible": true,
+      "children": [
+        {
+          "title": "iOS资源使用技巧及攻略",
+          "visible": true,
+          "desc": "人生若只如初见，何事秋风悲画扇。 —— 纳兰性德 《 木兰词 · 拟古决绝词柬友 》",
+          "linkList": [
+            {
+              "title": "UC盘",
+              "link": "https://drive.uc.cn/s/083ca576df384",
+              "visible": true
+            },
+            {
+              "title": "夸克盘",
+              "link": "https://pan.quark.cn/s/4a90e1e46d8c",
+              "visible": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "apk",
+      "title": "安卓",
+      "icon": "apkSvg",
+      "visible": true,
+      "desc": "安卓资源使用技巧及攻略。",
+      "children": [
+        {
+          "title": "安卓资源使用技巧及攻略",
+          "visible": true,
+          "desc": "老当益壮，宁移白首之心；穷且益坚，不坠青云之志。 —— 王勃 《 滕王阁序 》",
+          "linkList": [
+            {
+              "title": "UC盘",
+              "link": "https://drive.uc.cn/s/0a2121c3e9194",
+              "visible": true
+            },
+            {
+              "title": "夸克盘",
+              "link": "https://pan.quark.cn/s/7c2d5a06003b",
+              "visible": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "apktv",
+      "title": "电视TV",
+      "icon": "tvSvg",
+      "visible": true,
+      "desc": "电视TV资源使用技巧及攻略",
+      "children": [
+        {
+          "title": "电视TV资源使用技巧及攻略",
+          "visible": true,
+          "desc": "长风破浪会有时，直挂云帆济沧海！ —— 李白 《 行路难三首 》",
+          "linkList": [
+            {
+              "title": "UC盘",
+              "link": "https://drive.uc.cn/s/c0a878f7d4374",
+              "visible": true
+            },
+            {
+              "title": "夸克盘",
+              "link": "https://pan.quark.cn/s/e41f141956bd",
+              "visible": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "source",
+      "title": "源接口",
+      "icon": "sourceSvg",
+      "visible": true,
+      "desc": "源接口资源使用技巧及攻略",
+      "children": [
+        {
+          "title": "源接口资源使用技巧及攻略",
+          "visible": true,
+          "desc": "大鹏一日同风起，扶摇直上九万里。 —— 李白 《 上李邕 》",
+          "linkList": [
+            {
+              "title": "UC盘",
+              "link": "https://drive.uc.cn/s/68dd0e412e2e4",
+              "visible": true
+            },
+            {
+              "title": "夸克盘",
+              "link": "https://pan.quark.cn/s/9aba12becc4c",
+              "visible": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pc",
+      "title": "PC端",
+      "icon": "pcSvg",
+      "visible": true,
+      "desc": "PC端资源使用技巧及攻略",
+      "children": [
+        {
+          "title": "PC端资源使用技巧及攻略",
+          "visible": true,
+          "desc": "一声梧叶一声秋，一点芭蕉一点愁，三更归梦三更后。 —— 徐再思 《 水仙子 · 夜雨 》",
+          "linkList": [
+            {
+              "title": "UC盘",
+              "link": "https://drive.uc.cn/s/ae1b4667436a4",
+              "visible": true
+            },
+            {
+              "title": "夸克盘",
+              "link": "https://pan.quark.cn/s/f62c0f41cb24",
+              "visible": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wall",
+      "title": "壁纸精选",
+      "icon": "wallSvg",
+      "visible": true,
+      "desc": "壁纸资源",
+      "children": [
+        {
+          "title": "手机端壁纸资源",
+          "visible": true,
+          "desc": "日出江花红胜火，春来江水绿如蓝。能不忆江南？ —— 白居易 《 忆江南三首 》",
+          "linkList": [
+            {
+              "title": "UC盘",
+              "link": "https://drive.uc.cn/s/00065c9fecbf4",
+              "visible": true
+            },
+            {
+              "title": "夸克盘",
+              "link": "https://pan.quark.cn/s/7c0e3698fd33",
+              "visible": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

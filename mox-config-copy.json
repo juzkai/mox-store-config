@@ -1,361 +1,21 @@
 {
     "moxTitle": "墨享小站",
-    "moxUser": "dep",
+    "moxUser": "pro",
     "moxAssetsPerMalink": "cd2b62b4c9d4cc576a8ac8282aec63590b414603",
     "moxActiveColor": "#ff6600",
-    "moxNoticeBarText": "本站初始还是以iOS巨魔用户资源为主，搜集了超多的实用工具🛠️，其他的多少也有涉及📚，后续看情况也会不断地搜集其他资源。",
+    "moxNoticeBarText": "目前主要以苹果iOS，免费资源分享为主、提供一些使用技巧及攻略，后面会搜集一下其他端的使用攻略。",
     "moxMainMenu": [
         {
             "id": "ios",
             "title": "iOS",
-            "desc": "iOS资源，基本上都是巨魔资源，需巨魔免签安装。免费资源很多，还没安装的小伙伴请先安装巨魔。",
+            "desc": "iOS资源使用技巧及攻略。",
             "icon": "appleSvg",
             "visible": true,
             "children": [
                 {
-                    "title": "影视动漫空壳版",
+                    "title": "iOS资源使用技巧及攻略",
                     "visible": true,
-                    "desc": "影视空壳APP，需自配源，iOS空壳版比较少，不保证长期可用，请获取及时。APTV是直播类，配置源去源接口模块查找",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "影视动漫",
-                    "visible": true,
-                    "desc": "主要是iBox，777，橘子等，内容不定期更新，有时效性。",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "巨魔录音机",
-                    "visible": true,
-                    "desc": "现在iOS18以上才支持通话录音，但很多小伙伴又不想升级系统，这不这款神器出来了，主推。",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "TrollFools注入",
-                    "visible": true,
-                    "desc": "一款注入神器，可以注入和推出dylib动态库的iOS应用，支持deb格式。资源内包含多种注入...",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "音乐APP",
-                    "visible": true,
-                    "desc": "iOS上听歌的软件，部分需要配源使用（源接口模块获取），个人比较推荐某概念版2.5.5",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "聚合直播",
-                    "visible": true,
-                    "desc": "集哔哩、某鱼、虎y、抖y直播于一体，支持关注。爱刷直播的再也不用频繁切换应用了",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "小说阅读",
-                    "visible": true,
-                    "desc": "看小说的应用，部分需要自配源，源接口模块后期会更新",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "看漫画",
-                    "visible": true,
-                    "desc": "皮皮喵，里面自行摸索哈。",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "多媒体播放器",
-                    "visible": true,
-                    "desc": "几款比较实用的媒体播放器",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "文件应用管理",
-                    "visible": true,
-                    "desc": "Filza可以像安卓那样直接管理文件，AppsManager一键抹除用户数据，再也不用卸载重装了。",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "升降级APP",
-                    "visible": true,
-                    "desc": "给AppStore安装的应用升降级版本，不是所有的都能支持。",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "APP砸壳工具",
-                    "visible": true,
-                    "desc": "IPA提取，以及IPA修改，可开分身，你懂得...",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "浏览器应用",
-                    "visible": true,
-                    "desc": "几款便捷的浏览器应用，可无广。其中ES功能比较多。",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "应用签名",
-                    "visible": true,
-                    "desc": "轻松签及全能签，功能相似。",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "文档及办公工具",
-                    "visible": true,
-                    "desc": "计算器，PDF扫描、解压缩等工具",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "美化小组件",
-                    "visible": true,
-                    "desc": "手机桌面美化小组件等",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "NFC门禁卡",
-                    "visible": true,
-                    "desc": "可模拟未加密的门禁卡Aemulo",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "相机及图片编辑",
-                    "visible": true,
-                    "desc": "编辑图片、剪影视频、比较好用的相机等",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "社交媒体论坛",
-                    "visible": true,
-                    "desc": "一些社交类app",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "系统安全分析",
-                    "visible": true,
-                    "desc": "reveil分析系统安全性",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/083ca576df384",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/4a90e1e46d8c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "实用工具",
-                    "visible": true,
-                    "desc": "其他一些杂七杂八的小工具、包括查看wifi，查看电池等",
+                    "desc": "人生若只如初见，何事秋风悲画扇。 —— 纳兰性德 《 木兰词 · 拟古决绝词柬友 》",
                     "linkList": [
                         {
                             "title": "UC盘",
@@ -376,29 +36,12 @@
             "title": "安卓",
             "icon": "apkSvg",
             "visible": true,
-            "desc": "安卓应用，部分设备安装资源可能会受限，非主推资源，主要是些影视音乐类。",
+            "desc": "安卓资源使用技巧及攻略。",
             "children": [
                 {
-                    "title": "影视",
+                    "title": "安卓资源使用技巧及攻略",
                     "visible": true,
-                    "desc": "主要是影视仓及OK影视俩神器，需配源使用，源接口模块获取。",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/0a2121c3e9194",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/7c2d5a06003b",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "音乐",
-                    "visible": true,
-                    "desc": "果韵，需要配源使用",
+                    "desc": "老当益壮，宁移白首之心；穷且益坚，不坠青云之志。 —— 王勃 《 滕王阁序 》",
                     "linkList": [
                         {
                             "title": "UC盘",
@@ -419,63 +62,12 @@
             "title": "电视TV",
             "icon": "tvSvg",
             "visible": true,
-            "desc": "电视TV上使用，因设备不同，受限方式也不同，第一次安装需要U盘或投屏，建议优先装阿里TV版，下方系统工具中提供，以后有了资源可以直接从TV版上下载安装。",
+            "desc": "电视TV资源使用技巧及攻略",
             "children": [
                 {
-                    "title": "系统工具",
+                    "title": "电视TV资源使用技巧及攻略",
                     "visible": true,
-                    "desc": "电视桌面管理、应用管理等工具",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/c0a878f7d4374",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/e41f141956bd",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "影视动漫",
-                    "visible": true,
-                    "desc": "与安卓一样，主推影视仓及OK影视，需配源，源接口模块获取",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/c0a878f7d4374",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/e41f141956bd",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "电视直播",
-                    "visible": true,
-                    "desc": "看电视台的软件，其实有影视仓和OK已经足够用了，这俩视频及直播都支持的",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/c0a878f7d4374",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/e41f141956bd",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "音乐TV",
-                    "visible": true,
-                    "desc": "家庭KTV点歌软件，最好配合个U盘使用。",
+                    "desc": "长风破浪会有时，直挂云帆济沧海！ —— 李白 《 行路难三首 》",
                     "linkList": [
                         {
                             "title": "UC盘",
@@ -496,46 +88,12 @@
             "title": "源接口",
             "icon": "sourceSvg",
             "visible": true,
-            "desc": "一些开源的直播源、视频源及音乐源接口，不能保证能搭配所有需要配置的源",
+            "desc": "源接口资源使用技巧及攻略",
             "children": [
                 {
-                    "title": "视频源",
+                    "title": "源接口资源使用技巧及攻略",
                     "visible": true,
-                    "desc": "开源的视频源接口。",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/68dd0e412e2e4",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/9aba12becc4c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "直播源",
-                    "visible": true,
-                    "desc": "开源的直播源接口。",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/68dd0e412e2e4",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/9aba12becc4c",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "音乐源",
-                    "visible": true,
-                    "desc": "开源的音乐源接口。",
+                    "desc": "大鹏一日同风起，扶摇直上九万里。 —— 李白 《 上李邕 》",
                     "linkList": [
                         {
                             "title": "UC盘",
@@ -556,29 +114,12 @@
             "title": "PC端",
             "icon": "pcSvg",
             "visible": true,
-            "desc": "windows端一些工具，暂时没影视版，可在工具里面下载个安卓模拟器观看，不过受限比较多。非主推",
+            "desc": "PC端资源使用技巧及攻略",
             "children": [
                 {
-                    "title": "音乐",
+                    "title": "PC端资源使用技巧及攻略",
                     "visible": true,
-                    "desc": "洛雪和果韵，需配源使用",
-                    "linkList": [
-                        {
-                            "title": "UC盘",
-                            "link": "https://drive.uc.cn/s/ae1b4667436a4",
-                            "visible": true
-                        },
-                        {
-                            "title": "夸克盘",
-                            "link": "https://pan.quark.cn/s/f62c0f41cb24",
-                            "visible": true
-                        }
-                    ]
-                },
-                {
-                    "title": "实用工具",
-                    "visible": true,
-                    "desc": "一些小工具，很少",
+                    "desc": "一声梧叶一声秋，一点芭蕉一点愁，三更归梦三更后。 —— 徐再思 《 水仙子 · 夜雨 》",
                     "linkList": [
                         {
                             "title": "UC盘",
@@ -599,12 +140,12 @@
             "title": "壁纸精选",
             "icon": "wallSvg",
             "visible": true,
-            "desc": "高清壁纸",
+            "desc": "壁纸资源",
             "children": [
                 {
-                    "title": "手机端",
+                    "title": "手机端壁纸资源",
                     "visible": true,
-                    "desc": "一些手机端的精选壁纸",
+                    "desc": "日出江花红胜火，春来江水绿如蓝。能不忆江南？ —— 白居易 《 忆江南三首 》",
                     "linkList": [
                         {
                             "title": "UC盘",
