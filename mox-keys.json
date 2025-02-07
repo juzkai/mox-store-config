@@ -23,5 +23,23 @@
     ],
     "linkList": [
     ]
+  },
+  {
+    "id": "10",
+    "title": "苹果商店应用推荐",
+    "visible": true,
+    "desc": [
+      {
+        "title": "'大师兄'又回来了",
+        "text": "没想到师兄刚刚离开，这么快就又回来了。喜欢的童鞋，公众号回复关键词：师兄，获取设置攻略。"
+      }
+    ],
+    "linkList": [
+      {
+        "title": "大师兄",
+        "link": "https://apps.apple.com/cn/app/%E5%96%9C%E8%BD%A6%E6%8E%8C%E6%8E%A7/id6740757546",
+        "visible": true
+      }
+    ]
   }
 ]
