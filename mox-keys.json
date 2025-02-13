@@ -36,6 +36,10 @@
       {
         "title": "看世界",
         "text": "公种号回复关键词：世界，获取设置攻略。"
+      },
+      {
+        "title": "fox",
+        "text": "公种号回复关键词：fox，获取设置攻略。"
       }
     ],
     "linkList": [
@@ -47,6 +51,11 @@
       {
         "title": "看世界",
         "link": "https://apps.apple.com/cn/app/%E5%BF%83%E5%8F%A3%E9%BB%98%E9%BB%98%E7%AE%97/id6738841663",
+        "visible": true
+      },
+      {
+        "title": "fox",
+        "link": "https://apps.apple.com/cn/app/%E6%A0%BC%E9%97%B4%E6%99%BA%E5%8A%9B/id6741565666",
         "visible": true
       }
     ]
