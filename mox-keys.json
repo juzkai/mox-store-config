@@ -30,6 +30,10 @@
     "visible": true,
     "desc": [
       {
+        "title": "温馨提示",
+        "text": "如果Safari浏览器提示【打不开该网页，因为网址无效】，可以先尝试访问一个其他页面，如任意搜索一个关键词，然后再粘贴网址打开就可以直接跳转到AppStore了。"
+      },
+      {
         "title": "瓜子",
         "text": "目前没广子，支持奈非，版本更新非常快，及时获取，公种号回复关键词：gz，获取设置攻略。"
       },
@@ -41,7 +45,7 @@
     "linkList": [
       {
         "title": "瓜子",
-        "link": "https://apps.apple.com/cn/app/dgp-elasticpotential/id6741837815",
+        "link": "https://apps.apple.com/cn/app/id6741569006",
         "visible": true
       },
       {
