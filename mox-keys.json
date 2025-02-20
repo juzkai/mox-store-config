@@ -31,7 +31,7 @@
     "desc": [
       {
         "title": "温馨提示",
-        "text": "如果Safari浏览器提示【打不开该网页，因为网址无效】，可以先尝试访问一个其他页面，如任意搜索一个关键词，然后再粘贴网址打开就可以直接跳转到AppStore了。"
+        "text": "如果Safari浏览器提示【打不开该网页，因为网址无效】，可以先尝试访问一个其他页面，也可任意搜索一个关键词，然后再粘贴网址打开，就可以直接跳转到AppStore了。"
       },
       {
         "title": "瓜子",
@@ -45,12 +45,34 @@
     "linkList": [
       {
         "title": "瓜子",
-        "link": "https://apps.apple.com/cn/app/id6741569006",
+        "link": "https://apps.apple.com/cn/app/pilwkcrwiacs/id6742095090",
         "visible": true
       },
       {
         "title": "fox",
         "link": "https://apps.apple.com/cn/app/%E6%A0%BC%E9%97%B4%E6%99%BA%E5%8A%9B/id6741565666",
+        "visible": true
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "iOS限免",
+    "visible": true,
+    "desc": [
+      {
+        "title": "温馨提示",
+        "text": "如果Safari浏览器提示【打不开该网页，因为网址无效】，可以先尝试访问一个其他页面，也可任意搜索一个关键词，然后再粘贴网址打开，就可以直接跳转到AppStore了。"
+      },
+      {
+        "title": "【2025-02-20】限免",
+        "text": "应用程序结合了创新的相机、强力的相片编辑器以及便利的拼贴画制作工具。"
+      }
+    ],
+    "linkList": [
+      {
+        "title": "【2025-02-20】限免",
+        "link": "https://apps.apple.com/cn/app/id968591710",
         "visible": true
       }
     ]
