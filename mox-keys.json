@@ -31,7 +31,7 @@
     "desc": [
       {
         "title": "温馨提示",
-        "text": "如果Safari浏览器提示【打不开该网页，因为网址无效】，可以先尝试访问一个其他页面，也可任意搜索一个关键词，然后再粘贴网址打开，就可以直接跳转到AppStore了。如果提示App不可用，说明已下架"
+        "text": "如果Safari浏览器提示【打不开该网页，因为网址无效】，可以先尝试访问一个其他页面，也可任意搜索一个关键词，然后再粘贴网址打开，就可以直接跳转到AppStore了。如果提示App不可用，说明已下架。"
       },
       {
         "title": "瓜子",
@@ -39,7 +39,7 @@
       },
       {
         "title": "fox",
-        "text": "公种号回复关键词：fox，获取设置攻略。"
+        "text": "点击底部「问题反馈」 》输入「666」后提交，软件关闭后再次进入即可。"
       },
       {
         "title": "大师兄",
@@ -69,7 +69,7 @@
       },
       {
         "title": "大师兄",
-        "link": "https://apps.apple.com/us/app/%E5%B9%BB%E5%BD%A9%E4%BB%A3%E7%A0%81/id6741908419?ref=yinghezhinan.com",
+        "link": "https://apps.apple.com/us/app/%E5%B9%BB%E5%BD%A9%E4%BB%A3%E7%A0%81/id6741908419",
         "visible": true
       }
     ]
