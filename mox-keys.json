@@ -44,6 +44,14 @@
       {
         "title": "大师兄",
         "text": "底部「 问题反馈」，输入框输入「666」后提交（右下角图标），软件自动关闭后再次进入即可。"
+      },
+      {
+        "title": "小黄人",
+        "text": "底部「建议/问题」 》输入「哈哈哈」提交 》软件关闭后再次进入。"
+      },
+      {
+        "title": "小柠檬",
+        "text": "点击右上角「 ？」号图标，输入「小柠檬」提交，软件关闭后再次进入即可。"
       }
     ],
     "linkList": [
@@ -70,6 +78,16 @@
       {
         "title": "大师兄",
         "link": "https://apps.apple.com/us/app/%E5%B9%BB%E5%BD%A9%E4%BB%A3%E7%A0%81/id6741908419",
+        "visible": true
+      },
+      {
+        "title": "小黄人",
+        "link": "https://apps.apple.com/us/app/%E6%96%87%E6%9C%AC%E5%A4%9A%E6%AC%A1%E9%83%8E/id6742402163",
+        "visible": true
+      },
+      {
+        "title": "小柠檬",
+        "link": "https://apps.apple.com/us/app/%E7%82%AB%E5%8A%A8%E6%96%87%E5%AD%97/id6742389218",
         "visible": true
       }
     ]
