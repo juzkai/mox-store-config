@@ -94,22 +94,52 @@
   },
   {
     "id": "20",
-    "title": "iOS限免",
+    "title": "iOS应用签名",
     "visible": true,
     "desc": [
       {
         "title": "温馨提示",
-        "text": "如果Safari浏览器提示【打不开该网页，因为网址无效】，可以先尝试访问一个其他页面，也可任意搜索一个关键词，然后再粘贴网址打开，就可以直接跳转到AppStore了。"
+        "text": "软件源只找了个别几个，但都不是免费的，需要特别注意下，如需相关资源的，可去公众号回复：ios，虽然资源不是特别多，但是绝对够用了。搜集的证书在ios-->ios证书目录下。"
       },
       {
-        "title": "【2025-02-20】限免",
-        "text": "应用程序结合了创新的相机、强力的相片编辑器以及便利的拼贴画制作工具。"
+        "title": "温馨提示",
+        "text": "提供的证书也是来源于互联网搜集或者大佬的分享，大家低调使用，不定时更新，不保证一定能用。如果设备及系统支持，还是建议去装TrollStore"
       }
     ],
     "linkList": [
       {
-        "title": "【2025-02-20】限免",
-        "link": "https://apps.apple.com/cn/app/id968591710",
+        "title": "轻松签在线安装地址",
+        "link": "https://qsq.52ksq.cn/sign/index.php",
+        "visible": true
+      },
+      {
+        "title": "轻松签官网",
+        "link": "https://esign.yyyue.xyz",
+        "visible": true
+      },
+      {
+        "title": "软件源地址1",
+        "link": "https://app.iosxin.top/appstore",
+        "visible": true
+      },
+      {
+        "title": "软件源地址2",
+        "link": "https://app.iosxin.top/appstore",
+        "visible": true
+      },
+      {
+        "title": "软件源地址3",
+        "link": "https://app.iappos.com/appstore",
+        "visible": true
+      },
+      {
+        "title": "软件源地址4",
+        "link": "https://yeziku.cn/sites/955.html",
+        "visible": true
+      },
+      {
+        "title": "TrollStore官网",
+        "link": "https://ios.cfw.guide/installing-trollstore/",
         "visible": true
       }
     ]
