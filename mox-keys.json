@@ -52,6 +52,14 @@
       {
         "title": "小柠檬",
         "text": "点击右上角「 ？」号图标，输入「小柠檬」提交，软件关闭后再次进入即可。"
+      },
+      {
+        "title": "天空",
+        "text": "点击右上角「 ！」图标 》输入「666」后提交，软件关闭后再次进入即可。"
+      },
+      {
+        "title": "蒙太奇",
+        "text": "点击左上角「 ？」图标，输入「蒙太奇」后提交，软件关闭后再次进入即可。"
       }
     ],
     "linkList": [
@@ -88,6 +96,16 @@
       {
         "title": "小柠檬",
         "link": "https://apps.apple.com/us/app/%E7%82%AB%E5%8A%A8%E6%96%87%E5%AD%97/id6742389218",
+        "visible": true
+      },
+      {
+        "title": "天空",
+        "link": "https://apps.apple.com/cn/app/%E9%9A%90%E8%AF%AD%E5%9B%BE/id6742395924",
+        "visible": true
+      },
+      {
+        "title": "蒙太奇",
+        "link": "https://apps.apple.com/cn/app/%E6%96%87%E4%B9%A6%E7%99%BE%E5%8F%98%E9%80%9A/id6742776074",
         "visible": true
       }
     ]
