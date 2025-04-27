@@ -38,20 +38,8 @@
         "text": "目前没广子，支持奈非，版本更新非常快，及时获取，公种号回复关键词：gz，获取设置攻略。"
       },
       {
-        "title": "fox-20250414",
-        "text": "点击右上角「 ！」号图标 》输入「666」后提交，软件关闭后再次进入即可。"
-      },
-      {
-        "title": "蒙太奇-20250414",
-        "text": "点击左上角「 ？」图标，输入「蒙太奇」后提交，软件关闭后再次进入即可。"
-      },
-      {
-        "title": "追剧达人-20250414",
-        "text": "左上角「 ！」图标 》 输入「zj666」后点击「提交」，软件关闭后再次进入即可。"
-      },
-      {
-        "title": "特狗-20250414",
-        "text": "点击底部「意见反馈」按钮，输入「tegou」提交，软件自动关闭后再次进入即可。"
+        "title": "美剧-20250427",
+        "text": "首页第一个「输入框」输入「USA」后点击「submit」，会自动变身。（不支持中文以及中文字幕）"
       }
     ],
     "linkList": [
@@ -71,23 +59,8 @@
         "visible": true
       },
       {
-        "title": "fox-20250414",
-        "link": "https://apps.apple.com/us/app/%E6%96%87%E6%A1%A3%E8%BD%AC%E6%98%93%E5%8C%A0/id6744267340",
-        "visible": true
-      },
-      {
-        "title": "蒙太奇-20250414",
-        "link": "https://apps.apple.com/us/app/%E5%BF%83%E5%AE%89%E8%AE%B0/id6744287350",
-        "visible": true
-      },
-      {
-        "title": "追剧达人-20250414",
-        "link": "https://apps.apple.com/us/app/%E5%8A%A0%E7%8F%AD%E8%BF%BD%E8%B8%AA%E5%AE%9D/id6744290560",
-        "visible": true
-      },
-      {
-        "title": "特狗-20250414",
-        "link": "https://apps.apple.com/us/app/%E6%99%BA%E6%B1%87%E7%9F%A5%E8%AF%86%E5%A0%82/id6744287060",
+        "title": "美剧-20250427",
+        "link": "https://apps.apple.com/us/app/heal-tracks/id6744039275",
         "visible": true
       }
     ]
