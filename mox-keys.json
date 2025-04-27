@@ -40,6 +40,10 @@
       {
         "title": "美剧-20250427",
         "text": "首页第一个「输入框」输入「USA」后点击「submit」，会自动变身。（不支持中文以及中文字幕）"
+      },
+      {
+        "title": "可可-20250427",
+        "text": "底部「意见反馈」 》 输入「c822」后提交选Restart，等待「5分钟」后重新打开APP即可。"
       }
     ],
     "linkList": [
@@ -61,6 +65,11 @@
       {
         "title": "美剧-20250427",
         "link": "https://apps.apple.com/us/app/heal-tracks/id6744039275",
+        "visible": true
+      },
+      {
+        "title": "可可-20250427",
+        "link": "https://apps.apple.com/us/app/%E6%95%B4%E9%99%A4%E7%AE%97%E5%BC%8F/id6744813629",
         "visible": true
       }
     ]
