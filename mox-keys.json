@@ -38,6 +38,14 @@
         "text": "目前没广子，支持NAI非，版本更新非常快，及时获取，不明白的可公种号回复关键词：gz，获取设置攻略。"
       },
       {
+        "title": "追ju喵-20250510",
+        "text": "底部「右下角」设置图标 》问题反馈 》输入「520」提交，软件关闭后重新进入即可。"
+      },
+      {
+        "title": "佩奇-20250510",
+        "text": "底部「联系我们」 输入「666」后提交，软件自动关闭后再次进入即可。"
+      },
+      {
         "title": "007-20250509",
         "text": "底部「使用说明」按钮 》点击「右上角图标」〉输入「666」后提交，软件关闭后再次进入即可。"
       },
@@ -46,16 +54,8 @@
         "text": "点击「问题反馈」，输入「999」后重启即可。"
       },
       {
-        "title": "小松子-20250509",
-        "text": "底部「意见反馈」 》 输入「666」后提交，闪退后重新打开即可。"
-      },
-      {
-        "title": "小狐狸-20250507",
-        "text": "左上角「 ？」图标 》输入「666」后提交，软件关闭后再次进入即可（如变身失败请切换网络尝试）。"
-      },
-      {
-        "title": "可可-20250508",
-        "text": "底部「意见反馈」 》 输入「c200856」后提交选Restart，等待「5分钟」后重新打开APP即可。"
+        "title": "可可-20250510",
+        "text": "顶部「意见反馈」 》 输入「c822」后提交选Restart，等待「5分钟」后重新打开APP即可。"
       }
     ],
     "linkList": [
@@ -75,6 +75,16 @@
         "visible": true
       },
       {
+        "title": "追ju喵-20250510",
+        "link": "https://apps.apple.com/us/app/%E8%81%8C%E6%95%88%E5%8A%A0%E7%8F%AD%E8%AE%B0/id6745446029",
+        "visible": true
+      },
+      {
+        "title": "佩奇-20250510",
+        "link": "https://apps.apple.com/us/app/%E5%AF%86%E9%94%81%E4%BF%9D%E6%8A%A4/id6745444280",
+        "visible": true
+      },
+      {
         "title": "007-20250509",
         "link": "https://apps.apple.com/cn/app/%E6%88%90%E8%AF%AD%E9%94%A6%E5%9B%8A/id6745582833",
         "visible": true
@@ -85,18 +95,8 @@
         "visible": true
       },
       {
-        "title": "小松子-20250509",
-        "link": "https://apps.apple.com/us/app/%E5%8E%86%E4%BA%BA%E9%80%9A/id6745506339",
-        "visible": true
-      },
-      {
-        "title": "小狐狸-20250507",
-        "link": "https://apps.apple.com/us/app/%E6%97%B6%E8%BE%B0%E7%A7%98%E5%A2%83/id6745442424",
-        "visible": true
-      },
-      {
-        "title": "可可-20250508",
-        "link": "https://apps.apple.com/us/app/%E5%90%88%E5%90%88%E8%B5%8B%E7%AE%97/id6744843058",
+        "title": "可可-20250510",
+        "link": "https://apps.apple.com/us/app/%E6%97%85%E8%A1%8C%E9%81%BF%E5%9D%91%E6%94%BB%E7%95%A5/id6744455986",
         "visible": true
       }
     ]
