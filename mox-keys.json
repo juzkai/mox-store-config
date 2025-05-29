@@ -34,20 +34,16 @@
         "text": "如果Safari浏览器提示【打不开该网页，因为网址无效】，可以先尝试访问一个其他页面，也可任意搜索一个关键词，然后再粘贴网址打开，就可以直接跳转到AppStore了。如果提示App不可用，说明已下架。"
       },
       {
+        "title": "【手动置顶^_^】iOS看小说的",
+        "text": "目前没发现有广子。复制链接到浏览器打开。按照官网的提示下载安装就行。及时获取！"
+      },
+      {
         "title": "瓜子",
         "text": "目前没广子，支持NAI非，版本更新非常快，及时获取，不明白的可公种号回复关键词：gz，获取设置攻略。"
       },
       {
-        "title": "蒙太奇-20250528",
-        "text": "右上角「设置」》问题反馈 》输入「666」后提交，软件关闭后再次进入即可。"
-      },
-      {
         "title": "可可-20250524",
         "text": "底部「意见反馈」 》 输入「c822」后提交选Restart，等待「5分钟」后重新打开APP即可。"
-      },
-      {
-        "title": "小柿子-20250524",
-        "text": "左上角「 ？」图标 》输入「小柿子」提交，后台关闭APP再打开即可。"
       },
       {
         "title": "无名-20250523",
@@ -68,6 +64,11 @@
     ],
     "linkList": [
       {
+        "title": "【手动置顶^_^】iOS看小说的",
+        "link": "https://h.wuwmt.com/boxmoon/app.html?invite_id=50242842&invite_code=CDZ2F2T4C&channel=wechat",
+        "visible": true
+      },
+      {
         "title": "瓜子",
         "link": "https://gztv50.com/",
         "visible": true
@@ -83,18 +84,8 @@
         "visible": true
       },
       {
-        "title": "蒙太奇-20250528",
-        "link": "https://apps.apple.com/us/app/%E8%B5%9B%E5%88%86%E6%AF%94%E6%8B%BC/id6746334955",
-        "visible": true
-      },
-      {
         "title": "可可-20250524",
         "link": "https://apps.apple.com/us/app/%E9%80%86%E8%BF%90%E5%8A%A8%E5%8F%98%E6%8D%A2/id6745760197",
-        "visible": true
-      },
-      {
-        "title": "小柿子-20250524",
-        "link": "https://apps.apple.com/us/app/%E9%80%9F%E6%B1%87%E6%9F%A5/id6745782006",
         "visible": true
       },
       {
