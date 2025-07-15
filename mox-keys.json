@@ -42,12 +42,16 @@
         "text": "目前没广子，支持NAI非，版本更新非常快，及时获取，不明白的可公种号回复关键词：gz，获取设置攻略。"
       },
       {
-        "title": "壹-20250704",
-        "text": "底部「意见反馈」按钮 》第一个输入框「666」后提交即可。"
+        "title": "可可-20250715",
+        "text": "点击顶部「意见反馈」 》 输入「c883」后提交选Restart，等待「5分钟」后重新打开APP即可。"
       },
       {
-        "title": "可可-20250704",
-        "text": "点击顶部「意见反馈」 》 输入「c822」后提交选Restart，等待「5分钟」后重新打开APP即可。"
+        "title": "大师兄-20250715",
+        "text": "右上角「 ! 」图标，输入「666」后提交，后台关闭APP后再次进入即可。"
+      },
+      {
+        "title": "壹-20250704",
+        "text": "底部「意见反馈」按钮 》第一个输入框「666」后提交即可。"
       },
       {
         "title": "随风-20250626",
@@ -76,13 +80,18 @@
         "visible": true
       },
       {
-        "title": "壹-20250704",
-        "link": "https://apps.apple.com/cn/app/%E7%8E%A9%E5%85%B7%E7%AB%A5%E7%AE%A1/id6747799099",
+        "title": "可可-20250715",
+        "link": "https://apps.apple.com/us/app/%E5%85%AC%E5%BA%A7%E5%A5%BD%E5%9D%8F%E4%BA%8B/id6747743648",
         "visible": true
       },
       {
-        "title": "可可-20250704",
-        "link": "https://apps.apple.com/us/app/qinailcare/id6747803049",
+        "title": "大师兄-20250715",
+        "link": "https://apps.apple.com/us/app/%E8%8B%97%E8%8B%97%E8%AE%A1%E5%88%92/id6747711377",
+        "visible": true
+      },
+      {
+        "title": "壹-20250704",
+        "link": "https://apps.apple.com/cn/app/%E7%8E%A9%E5%85%B7%E7%AB%A5%E7%AE%A1/id6747799099",
         "visible": true
       },
       {
